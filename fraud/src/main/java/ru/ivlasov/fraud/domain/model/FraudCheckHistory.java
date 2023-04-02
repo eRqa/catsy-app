@@ -1,11 +1,10 @@
-package ru.ivlasov.fraud;
+package ru.ivlasov.fraud.domain.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
 import javax.persistence.*;
-import java.time.LocalDate;
 import java.time.LocalDateTime;
 
 @Data
